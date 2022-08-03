@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500&display=swap');
+*{
+    font-family: 'Mulish', sans-serif ; 
+}
+ 
+/* img{
+    width: 30%;
+    height: 30vh;
+} */
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+.navbar .nav-link{
+    font-size: 1.4rem;
+    color: #ffff;
+
+}
+.navbar .nav-link :hover{
+    color: black;
+    background-color:blanchedalmond;
+
+}
+.carousel-inner img{
+    height: 100vh;
+}
+
+/* display */
+#overview-banner{
+    background-image: url(/asset/img/undraw_android_jr64.svg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#testimony img{
+    width: 25%;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    justify-content: center;
+
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 30%;
+    height: 30vh;
+    object-fit: cover;
+    justify-items: center;
+  }
+  #client .img{
+    width: 30%;
+    height: 30vh;
+  }
+  
+  
+  
+  
+   
