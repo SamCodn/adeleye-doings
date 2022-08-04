@@ -61,6 +61,12 @@
     width: 30%;
     height: 30vh;
   }
+  #main .card{
+    height: 60vh;
+  }
+  #main .img{
+    height: 30vh;
+  }
   
   
   
